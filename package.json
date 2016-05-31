@@ -1,0 +1,12 @@
+{
+  "name": "ngPterodact",
+  "version": "1.0.0",
+  "description": "Frontend for Pterodact LMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Modjeska",
+  "license": "ISC",
+  "start": "http-server -a localhost -p 8000 -c-1"
+}
